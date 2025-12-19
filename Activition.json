@@ -47,5 +47,12 @@
         "password": "SushantJi",
         "expirydate": "01-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "36b1e4b427191d9f",
+        "username": "TabletJi",
+        "password": "Pass123",
+        "expirydate": "12-12-2027",
+        "Allowoffline": false
     }
 ]
